@@ -1,0 +1,13 @@
+{
+  "_notes": "Keys starting with an underscore are ignored by the Store. Write version as TEXT (\"1.0\"). Notice keys you can add: notice, notice_title, notice_type (info|warning|critical), notice_once, notice_id, notice_start, notice_expires, notice_expires_after_days, notice_days, notice_time_start, notice_time_end, notice_quiet_start, notice_quiet_end, notice_min_version, notice_max_version, notice_url, notice_url_label, notice_url2, notice_url2_label, notice_force_ack, notice_vibrate, notice_auto_dismiss. For extra notices use notice_2_title ... notice_5_title (same key names with _2 to _5 in the middle).",
+  "version": "1.0",
+  "whatsnew": "First release of CSR with MK Store - one place to browse, download and update every CSR with MK extension.",
+  "min_version": "",
+  "disabled": "false",
+  "maintenance": "false",
+  "section_maintenance": "",
+  "features": "search=true, download_all=true",
+  "banner": "",
+  "help_text": "",
+  "notice": ""
+}
